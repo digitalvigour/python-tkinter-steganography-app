@@ -1,4 +1,5 @@
 Python Tkinter Steganography App by Digital Vigour
+Built using Python 3.8.9
 
 Overview
 Welcome to the Python Tkinter Steganography App! This application allows users to hide secret messages within images using steganography techniques. It provides a user-friendly interface built with Python and Tkinter, making it easy for users to encrypt and decrypt messages seamlessly.
