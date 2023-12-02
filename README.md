@@ -17,6 +17,8 @@ cd python-tkinter-steganography-app
 Install Dependencies:
 pip install -r requirements.txt
 
+Note: The app might work with other versions of pillow but if it doesn't, run the above command
+
 Run the App:
 python main.py
 

@@ -1,0 +1,6 @@
+# requirements.txt
+
+# Pillow for image processing
+Pillow==7.2.0
+
+#Might work with other pillow versions
